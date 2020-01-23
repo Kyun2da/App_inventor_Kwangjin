@@ -14,7 +14,7 @@
 
 #### 관련 문서
 
-- [초안](https://github.com/Kyun2da/App_inventor_Kwangjin/blob/master/앱만들기-계획(이은희).pptx)
+- [초안](https://github.com/Kyun2da/App_inventor_Kwangjin/blob/master/앱만들기%20계획(이은희).pptx)
 
 - 
 
