@@ -4,6 +4,7 @@
 
 - 로그인 구현을 최대한 빠르게 완료하고 파이어베이스를 통해 오디오저장을 구현할 예정
 
+- 멘토 예시 주석 추가 완료
 
 
 ### 참조 사이트
@@ -11,7 +12,7 @@
 -  [카카오 오븐](https://ovenapp.io/)
 - [draw.io](https://draw.io/)
 - [앱 인벤터 로그인 강의 0.5배속 추천](https://www.youtube.com/watch?v=abA02KbgdDI&list=PLjhvHI-lRYGrnOe4wQwm0xkX9O5Sm_Zat&index=2)
-- [멘토가 구현안 앱 인벤터 로그인 기능](https://github.com/Kyun2da/App_inventor_Kwangjin/blob/master/멘토 예시-멘티 참고용/a_Login.aia)
+- [멘토가 구현안 앱 인벤터 로그인 기능](https://github.com/Kyun2da/App_inventor_Kwangjin/blob/master/멘토 예시-멘티 참고용/a_Login2.aia)
 
 
 
