@@ -12,7 +12,7 @@
 -  [카카오 오븐](https://ovenapp.io/)
 - [draw.io](https://draw.io/)
 - [앱 인벤터 로그인 강의 0.5배속 추천](https://www.youtube.com/watch?v=abA02KbgdDI&list=PLjhvHI-lRYGrnOe4wQwm0xkX9O5Sm_Zat&index=2)
-- [멘토가 구현안 앱 인벤터 로그인 기능](https://github.com/Kyun2da/App_inventor_Kwangjin/tree/master/멘토%20예시-멘티%20참고용)
+- [멘토가 구현한 앱 인벤터 로그인 기능](https://github.com/Kyun2da/App_inventor_Kwangjin/tree/master/멘토%20예시-멘티%20참고용)
 
 
 
