@@ -12,6 +12,7 @@
 - [첫번째 회의록](./First_meeting.md)
 - [두 번째 회의록](./Second_meeting.md)
 - [세 번째 회의록](./Third_meeting.md)
+- [네 번째 회의록](./Fourth_meeting.md)
 
 #### 관련 문서
 
